@@ -1,4 +1,4 @@
-🇧🇷
+(🇧🇷)
 Este repositório foi um trabalho realizado na minha faculdade. O objetivo principal era fazer uma aplicação apenas em python, não era pemitido utilizar linguagens web, por exemplo. Minha idéia então foi criar tipo um IMDb, porém apenas em python.
 
 Justamente pelo python ser uma linguagem versátil e enxuta, eu não tive muitos problemas com o banco da dados (visto que apenas importei o SQLite3) e nem com a função de criar as janelas da minha aplicação(visto que importei o Tkinter). Eu apenas coloquei os comandos do banco de dados no código(nas primeiras linhas já aparece os primeiros comandos).
@@ -12,7 +12,7 @@ Ainda neste caso das Imagens, foi muito mais fácil colocar uma imagem que já e
 Este projeto não é muito complexo e 100% funcional a nível de um sênior ou pleno, justamente por eu estar no 3º período da faculdade ainda, mas com o tempo realizarei mais modificações e farei repositórios mais completos e funcionais. Este repositório é mais um "botão de start" na minha carreira de dev, e também estou vendo as funcionalidades do Git e do Github.
 
 
-🇺🇸
+(🇺🇸)
 This repository was a project I did at my college. The main goal was to create an application only in Python; it was not allowed to use web languages, for example. My idea then was to create something like an IMDb, but only in Python.
 
 Precisely because Python is a versatile and lean language, I didn't have many problems with the database (since I only imported SQLite3) or with the function of creating the windows of my application (since I imported Tkinter). I just put the database commands in the code (the first commands already appear in the first lines).
